@@ -41,5 +41,14 @@ return "data";
 
 
 	}
+public string dev()
+{
+return "data";
+}
+public string dev1()
+{
+return "data";
+}
+
 
 }
