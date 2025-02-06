@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringSecurityApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpringSecurityApplication.class,
 
 
@@ -14,6 +15,13 @@ public class SpringSecurityApplication {
 
 
 /*
+
+
+		SpringApplication.run(SpringSecurityApplication.class, args);
+
+
+/*
+DEvloper
 
 
 public string test()
@@ -26,6 +34,12 @@ public string test()
 {
 return "data";
 }
+
+
+	}
+
+
+
 	}
 
 }
