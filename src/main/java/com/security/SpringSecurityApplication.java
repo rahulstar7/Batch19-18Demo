@@ -35,6 +35,10 @@ public string test()
 return "data";
 }
 
+public string QA()
+{
+return "data";
+}
 
 	}
 
